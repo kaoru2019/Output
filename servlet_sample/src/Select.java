@@ -24,7 +24,7 @@ public class Select extends HttpServlet {
 		// データベースに接続するための情報
 		String url = "jdbc:mysql://localhost:3306/board";
 		String user = "root";
-		String password = "tibitaMaki1962@";
+		String password = "●●●●";
 
 		// アカウント名を格納するList
 		List<Integer> id = new ArrayList<>();
