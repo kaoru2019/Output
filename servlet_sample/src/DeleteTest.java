@@ -23,7 +23,7 @@ public class DeleteTest extends HttpServlet {
 
 		final String URL = "jdbc:mysql://localhost:3306/board";
 		final String USER = "root";
-		final String PASSWORD = "tibitaMaki1962@";
+		final String PASSWORD = "●●●●";
 
 		String name = request.getParameter("name");
 
