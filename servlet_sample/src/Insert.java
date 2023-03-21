@@ -28,7 +28,7 @@ public class Insert extends HttpServlet {
 		// データベースにアクセスするユーザー名
 		final String USER = "root";
 		// パスワード
-		final String PASSWORD = "tibitaMaki1962@";
+		final String PASSWORD = "●●●●";
 
 		Date date = new Date();
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.JAPANESE);
